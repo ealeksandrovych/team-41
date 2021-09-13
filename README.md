@@ -60,3 +60,35 @@
 ```
  "cSpell.language": "en,ru-RU,uk-UK"
 ```
+
+## module-3-4-5-6
+
+### Полезности
+
+-   [Шпаргалка по FlexBox](https://tpverstak.ru/flex-cheatsheet/)
+
+-   [Практическое применение FlexBox](https://habr.com/ru/post/242545/)
+
+-   [Пишем CSS, не забывая о доступности](https://abatickaya.medium.com/%D0%B4%D1%83%D0%BC%D0%B0%D1%8F-%D0%BE-%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%BD%D0%BE%D1%81%D1%82%D0%B8-%D0%BF%D0%B8%D1%88%D0%B5%D0%BC-css-9032d7b64fb2)
+
+-   [Где использовать флексы, а где гриды](https://www.youtube.com/watch?v=ST1EvRemB_U)
+
+-   [Как фокус помогает](https://htmlacademy.ru/blog/boost/frontend/short-10)
+
+-   [Так когда же всё таки можно использовать !important](https://habr.com/ru/post/484556/)
+
+-   [Flexbox несколько полезных примеров для работы](http://falbar.ru/article/flexbox-neskolko-poleznyh-primerov-dlya-raboty)
+
+-   [5 онлайн-сервисов для качественной оптимизации изображений](http://artismedia.by/blog/5-services-optimization-img/)
+
+-   [HTML5BOOK](https://html5book.ru/krasivye-ramki-dlya-teksta-i-foto-na-saite/)
+
+-   [Градиенты](https://cssgradient.io/)
+
+-   [clippy](https://bennettfeely.com/clippy/)
+
+-   [CSS3 3D-трансформации](https://html5book.ru/3d-transform/)
+
+-   [CSS3: анимация против переходов](https://www.internet-technologies.ru/articles/css3-animaciya-protiv-perehodov.html#header-9152-6)
+
+-   [красивые формы](https://codyshop.ru/kollektsiya-iz-15-krasivyih-form-registratsii-i-avtorizatsii/)
